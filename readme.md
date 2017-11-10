@@ -14,5 +14,5 @@
 1. Download and install Firefox *https://www.mozilla.org/en-US/firefox/all/*
 
 ## Run Test Cases
-1. Unzip files into the folder, for example, *C:\Flashpoint*
-2. Open command line in the *C:\Flashpoint* repository. Run *python FlashpointTest.py homepage loginpage*
+1. Unzip files into the folder, for example, *C:\Folder_name*
+2. Open command line in the *C:\Folder_name* repository. Run *python DockerTest.py homepage loginpage*
